@@ -1,0 +1,19 @@
+header .main-navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.7rem;
+
+
+    background-color:#F55A5A;
+    color: #fff;
+
+    height: 5.5rem;
+
+    font-size: 1.4rem;
+}
+
+header .main-navbar img{
+    width: 2.4rem;
+    height: 2.4rem;
+}
